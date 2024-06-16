@@ -20,7 +20,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://vercel-laravel-delta-lemon.vercel.app",
+        "APP_URL": "https://yourprojectdomain.com",
         "APP_KEY": "base64:M3MVMWDcWzfhnb+NWSm/jFQFyZZvG/f2uysRKgIGZ1s=",
         "DB_CONNECTION": "sqlite",
         "DB_DATABASE": ".database/database.sqlite",
