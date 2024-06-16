@@ -10,9 +10,12 @@
     }],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
+        "APP_DEBUG": "false",
         "APP_URL": "https://yourprojectdomain.com",
         "APP_KEY": "base64:M3MVMWDcWzfhnb+NWSm/jFQFyZZvG/f2uysRKgIGZ1s=",
+        "DB_CONNECTION": "sqlite",
+        "DB_DATABASE": ".database/database.sqlite",
+        "DB_PREFIX": "",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
