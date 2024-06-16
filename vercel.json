@@ -19,7 +19,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://vercel-laravel-delta-lemon.vercel.app",
-        "APP_KEY=base64": "M3MVMWDcWzfhnb+NWSm/jFQFyZZvG/f2uysRKgIGZ1s=",
+        "APP_KEY": "base64:M3MVMWDcWzfhnb+NWSm/jFQFyZZvG/f2uysRKgIGZ1s=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
