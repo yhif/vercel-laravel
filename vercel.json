@@ -18,7 +18,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://vercel-laravel-delta-lemon.vercel.app",
+        "APP_URL": "https://vercel-laravel-henna.vercel.app",
         "APP_KEY": "base64:M3MVMWDcWzfhnb+NWSm/jFQFyZZvG/f2uysRKgIGZ1s=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
